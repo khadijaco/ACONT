@@ -1,0 +1,693 @@
+{
+  "Technology": "Teknoloji",
+  "Apple unveils iPhone 14 at far out event": "Apple, iPhone 14'ü Far Out etkinliğinde tanıttı",
+  "Walmart enters the metaverse with Roblox": "Walmart, Roblox ile metaverse'e giriyor",
+  "Take no prisoners: In the Feds inflation fight": "Esir yok: Fed'in enflasyon savaşı",
+  "Amazon raising hourly pay for warehouse": "Amazon, depo çalışanlarının saatlik ücretini artırıyor",
+  "Who is who: Meet the Murdoch Family": "Kim kimdir: Murdoch Ailesi ile tanışın",
+  "NFL has a new halftime show sponsor": "NFL'in yeni devre arası gösterisi sponsoru var",
+  "Actress details sexual harassment on sitcom set": "Aktris, sitcom setinde cinsel tacizi anlattı",
+  "Selma Blair stuns in Dancing with the Stars": "Selma Blair, Dancing with the Stars'ta büyüledi",
+  "The Twitter-Musk trial is now on pause": "Twitter-Musk davası şimdi duraklatıldı",
+  "Binance blockchain hit by $570 million crypto": "Binance blockchain 570 milyon dolarlık kripto saldırısına uğradı",
+  "The latest technologies to be used for VR in 2022": "2022'de VR için kullanılacak en son teknolojiler",
+  "Best laptops for developers in 2024": "2024'te geliştiriciler için en iyi dizüstü bilgisayarlar",
+  "The future of AI in web development": "Web geliştirmede yapay zekanın geleceği",
+  "How to secure your online accounts": "Çevrimiçi hesaplarınızı nasıl güvence altına alırsınız",
+  "Top 10 gadgets you need in 2024": "2024'te ihtiyacınız olan en iyi 10 gadget",
+  "Why cybersecurity matters in 2024": "Siber güvenlik 2024'te neden önemli",
+  "The rise of quantum computing": "Kuantum bilişimin yükselişi",
+  "How 5G will change everything": "5G her şeyi nasıl değiştirecek",
+  "Top programming languages to learn": "Öğrenilecek en iyi programlama dilleri",
+  "The Woman King surprises at the box office": "The Woman King gişede sürpriz yaptı",
+  "The fate of Elon Musks deal to buy Twitter": "Elon Musk'ın Twitter'ı satın alma anlaşmasının kaderi",
+  "The impact of social media on mental health": "Sosyal medyanın ruh sağlığı üzerindeki etkisi",
+  "The FTC ls Closing in on Runaway and AI": "FTC, Runaway ve AI'ya yaklaşıyor",
+  "Who Will Own the Art of the Future?": "Geleceğin sanatına kim sahip olacak?",
+  "To Fix Tech, Democracy Needs to Fix Grow Up": "Teknolojiyi düzeltmek için demokrasinin olgunlaşması gerekiyor",
+
+  "newsletter": {
+    "title_part1": "Abone Olun & %",
+    "title_part2": "10 İndirim Kazanın",
+    "subtitle": "En son mağazamıza ve özel tekliflerimize ilişkin e-posta güncellemeleri alın.",
+    "placeholder": "E-posta adresiniz",
+    "button": "Kayıt Ol"
+  },
+  "contact": {
+    "title": "İletişim",
+    "address_label": "Adres:",
+    "address_value": "502 New Design Str, Melbourne, San Francisco, CA 94110, Birleşik Devletler",
+    "phone_label": "Telefon:",
+    "email_label": "E-posta:",
+    "hours_label": "Çalışma Saatleri:",
+    "hours_value": "08:00 - 17:00, Pzt - Cmt"
+  },
+  "sections": {
+    "make_money": {
+      "title": "Bizimle Para Kazanın",
+      "mission_vision": "Misyon & Vizyon",
+      "our_team": "Ekibimiz",
+      "careers": "Kariyer",
+      "press_media": "Basın & Medya",
+      "advertising": "Reklam",
+      "testimonials": "Müşteri Yorumları"
+    },
+    "company": {
+      "title": "Şirket",
+      "our_blog": "Blogumuz",
+      "plans_pricing": "Planlar & Fiyatlandırma",
+      "knowledge_base": "Bilgi Bankası",
+      "cookie_policy": "Çerez Politikası",
+      "office_center": "Ofis Merkezi",
+      "news_events": "Haberler & Etkinlikler"
+    },
+    "my_account": {
+      "title": "Hesabım",
+      "faqs": "SSS",
+      "editor_help": "Editör Yardımı",
+      "community": "Topluluk",
+      "live_chatting": "Canlı Sohbet",
+      "contact_us": "Bize Ulaşın",
+      "support_center": "Destek Merkezi"
+    },
+    "app_payment": {
+      "title": "Uygulama & Ödeme",
+      "download_text": "Uygulamalarımızı indirin ve ilk siparişinizde ekstra %15 indirim kazanın…!",
+      "secured_payment": "Güvenli Ödeme Yöntemleri"
+    }
+  },
+  "tags": {
+    "ecom_market": "EcomMarket.com",
+    "ecom_partners": "Ecom Ortakları",
+    "ecom_business": "Ecom İş Dünyası",
+    "ecom_factory": "Ecom Fabrikası",
+    "electronics_label": "Elektronik:",
+    "electronics_items": {
+      "cell_phones": "Cep Telefonları",
+      "headphones": "Kulaklıklar",
+      "tv_video": "Televizyon & Video",
+      "game_controller": "Oyun Kolu",
+      "apple_watch": "Apple Watch",
+      "htc": "HTC",
+      "ipad": "iPad",
+      "keyboard": "Klavye",
+      "samsung": "Samsung",
+      "wireless_speaker": "Kablosuz Hoparlör",
+      "samsung_galaxy": "Samsung Galaxy",
+      "gaming_mouse": "Oyuncu Mousesu",
+      "ebook_readers": "E-Kitap Okuyucular",
+      "service_plans": "Hizmet Planları",
+      "home_audio": "Ev Ses Sistemleri",
+      "office_electronics": "Ofis Elektroniği",
+      "lenovo": "Lenovo",
+      "macbook_pro_m1": "MacBook Pro M1",
+      "hd_video_player": "HD Video Oynatıcı"
+    },
+    "furniture_label": "Mobilya:",
+    "furniture_items": {
+      "sofa": "Koltuk / Kanepe",
+      "chair": "Sandalye",
+      "dining_table": "Yemek Masası",
+      "living_room": "Oturma Odası",
+      "table_lamp": "Masa Lambası",
+      "night_stand": "Komodin",
+      "computer_desk": "Bilgisayar Masası",
+      "pillow": "Yastık",
+      "radio": "Radyo",
+      "clock": "Saat",
+      "bedroom": "Yatak Odası",
+      "stool": "Tabure",
+      "television": "Televizyon",
+      "wardrobe": "Gardırop",
+      "living_room_tables": "Oturma Odası Masaları",
+      "dressers": "Şifonyer",
+      "patio_sofas": "Balkon Koltukları",
+      "nursery": "Bebek Odası",
+      "kitchen": "Mutfak",
+      "accent_furniture": "Dekoratif Mobilya",
+      "replacement_parts": "Yedek Parçalar"
+    }
+  },
+  "footer_bottom": {
+    "copyright": "Telif Hakkı © 2026 teamwork 13. Tüm hakları saklıdır.",
+    "conditions_of_use": "Kullanım Koşulları",
+    "privacy_notice": "Gizlilik Bildirimi",
+    "interest_based_ads": "İlgi Alanına Dayalı Reklamlar"
+  },
+  "blog": {
+    "minRead": "dk okuma",
+    "readMore": "Devamını oku",
+"excerpt": "Bu, aynı alanda değiştirilebilecek bir metin örneğidir. Bu metin, metin oluşturucu tarafından oluşturulmuştur. Aynı alanda daha fazla paragraf oluşturabilirsiniz.",
+
+ "blogs": "BLOGLAR",
+  "showingResults": "{{start}}–{{end}} / {{total}} sonuç gösteriliyor",
+  "sortBy": "Sırala:",
+  "show": "Göster",
+  "sortOptions": {
+    "latest": "En yeni yazılar",
+    "oldest": "En eski yazılar",
+    "comments": "En çok yorumlananlar"
+  },
+  
+  "showOptions": {
+    "items30": "30 öğe",
+    "items50": "50 öğe",
+    "items100": "100 öğe"
+  },
+   "bannerIphone": {
+    "title": "iPhone 13 Serisi",
+    "subtitle": "Şimdi Cell City'de.",
+    "models": "iPhone 13 Pro Max | iPhone 13 Pro | iPhone 13 | iPhone 13 mini"
+  },
+  "bannerNote": {
+    "title": "Note",
+    "spec1": "Snapdragon 662",
+    "spec2": "6000mAh Pil",
+    "spec3": "18W Hızlı Şarj",
+    "spec4": "6.5 inç Ekran"
+  },
+
+    "categories": {
+      "technology": "Teknoloji",
+      "entertainment": "Eğlence",
+    "devices": "Cihazlar",
+    "ai": "Yapay Zeka",
+      "reviews": "Teknoloji İncelemeleri",
+      "gaming": "Oyun",
+      "crypto": "Kripto",
+      "software": "Yazılım Geliştirme",
+      "fintech": "FinTech",
+      "health": "Sağlık Teknolojisi",
+      "tips": "İpuçları ve Püf Noktaları",
+      "money": "İnternetten Para Kazanma",
+      "homeTheater": "Ev Sineması",
+      "cameras": "Kameralar ve Dronlar",
+      "pcGaming": "PC Oyunları"
+    }
+  },
+  "navbar": {
+  "blog": "Blog",
+  "contactUs": "Bize Ulaşın",
+  "blogPages": {
+    "noSidebar": "Blog - Yan Sütun Yok",
+    "rightSidebar": "Blog - Sağ Sütun",
+    "list": "Blog Listesi",
+    "categoryBig": "Büyük Blog Kategorisi",
+    "singleLeft": "Blog Yazısı - Sol Sütun",
+    "singleRight": "Blog Yazısı - Sağ Sütun",
+    "singleNoSidebar": "Blog Yazısı - Yan Sütun Yok"
+  }
+},
+"sidebar": {
+  "blogCategories": "Blog Kategorileri",
+  "trendingNews": "Trend Haberler",
+  "popularTags": "Popüler Etiketler",
+  "seeMore": "Daha Fazla Gör",
+  "seeLess": "Daha Az Gör",
+  "categories": {
+    "technologyTrending": "Teknoloji Trendleri",
+    "entertainment": "Eğlence",
+    "techReviews": "Teknoloji İncelemeleri",
+    "gamingBlog": "Oyun Blogu",
+    "cryptoNews": "Kripto Haberleri",
+    "softwareDev": "Yazılım Geliştirme",
+    "fintech": "FinTech",
+    "healthTech": "Sağlık Teknolojisi",
+    "tipsTricks": "İpuçları ve Püf Noktaları",
+    "makeMoney": "İnternetten Para Kazanma",
+    "homeTheater": "Ev Sineması",
+    "camerasDrones": "Kameralar ve Dronlar",
+    "pcGaming": "PC Oyunları"
+  },
+  "tags": {
+    "games": "Oyunlar",
+    "electronics": "Elektronik",
+    "video": "Video",
+    "cellphone": "Cep Telefonu",
+    "indoor": "İç Mekan",
+    "vga_card": "VGA Kartı",
+    "usb": "USB",
+    "lightning": "Aydınlatma",
+    "camera": "Kamera",
+    "window": "Pencere",
+    "air_vent": "Havalandırma",
+    "bedroom": "Yatak Odası",
+    "laptop": "Dizüstü",
+    "dashboard": "Gösterge Paneli",
+    "keyboard": "Klavye"
+  },
+  "banner": {
+    "no9": "No.9",
+    "title1": "Hassas Dokunuş",
+    "title2": "parmak izi olmadan",
+    "description": "Pürüzsüz tutuş ve hassas tıklama"
+  }
+},
+"blogSingle": {
+  "home": "Ana Sayfa",
+  "blog": "Blog",
+  "by": "Yazan",
+  "share": "Paylaş",
+  "leaveComment": "Yorum bırak",
+  "writeComment": "Yorum yaz",
+  "name": "Ad",
+  "email": "E-posta",
+  "postComment": "Yorum Gönder",
+  "comments": "Yorumlar",
+  "postsCount": "{{count}} yazı",
+  "since": "{{year}}'den beri",
+  "relatedBlogs": "İlgili Bloglar",
+  "authorBio": "Bu, aynı alanda değiştirilebilecek bir metin örneğidir. Tribe Capital GP Arjun Sethi tarafından ortaklaşa kurulan yeni bir kripto türev protokolü olan Nibiru, 100 milyon dolar değerleme üzerinden 7.5 milyon dolar tohum yatırımı topladı.",
+  "commentText": "Bu, aynı alanda değiştirilebilecek bir metin örneğidir.",
+"bigDeal": {
+  "badge": "Büyük Fırsat",
+  "title": "Elektronik",
+  "subtitle": "Sıcak cihazlar, En son trendler"
+},
+  "content": {
+    "c1": "Tribe Capital GP Arjun Sethi tarafından ortaklaşa kurulan yeni bir kripto türev protokolü olan Nibiru, 100 milyon dolar değerleme üzerinden 7.5 milyon dolar tohum yatırımı topladı. Tribe Capital, Republic Crypto ve Kraken tohum turuna yatırım yaptı.",
+    "c2": "Sethi, girişimleri dört sektör veteranıyla birlikte kurdu — Credence Capital ve Binance'den Sankha Banerjee ve Republic Capital'in kurucu ortağı Boris Revsin dahil. Nibiru, Meta, Reddit, JP Morgan ve Yahoo gibi firmalardan neredeyse yirmi katkıcı çekti.",
+    "c3": "Kripto piyasası, merkezi (Binance, FTX) ve merkezi olmayan ETH tabanlı sürekli ve opsiyon ticaret platformları (Dydx, Opyn, Perpetual Protocol) ile doludur. Nibiru, web sitesine göre ilk ana akım merkezi olmayan çok zincirli çözümü oluşturmaya çalışıyor.",
+    "c4": "Şu anda özel testnet'te olan Nibiru'nun merkezi olmayan protokolü, türev ticareti, spot ticareti, stake etme ve bağlı likiditeyi birleştiriyor ve 40'tan fazla blok zincirinde kullanıcılara hizmet vermeyi hedefliyor.",
+    "c5": "Yatırımcı sunumunda Nibiru, müşterilere kilitsiz hedge fırsatları, son derece düşük gas maliyetleri, MEV direnci ve yüksek vadeli işlem hacmi sağlayacağını söylüyor. Ayrıca merkezi olmayan perp'ler ve opsiyonlar kullanarak yükselen/düşen rejimlerde birleştirilebilir getiri yaratıyor.",
+    "h2": "FTC, Kontrolden Çıkan AI'ya Yaklaşıyor",
+    "p5": "Tribe Capital GP Arjun Sethi tarafından ortaklaşa kurulan yeni bir kripto türev protokolü olan Nibiru, 100 milyon dolar değerleme üzerinden 7.5 milyon dolar tohum yatırımı topladı.",
+    "p6": "Sethi, girişimleri dört sektör veteranıyla birlikte kurdu — Credence Capital ve Binance'den Sankha Banerjee ve Republic Capital'in kurucu ortağı Boris Revsin dahil.",
+    "p2": "Kripto piyasası, merkezi (Binance, FTX) ve merkezi olmayan ETH tabanlı sürekli ve opsiyon ticaret platformları (Dydx, Opyn, Perpetual Protocol) ile doludur. Nibiru, web sitesine göre ilk ana akım merkezi olmayan çok zincirli çözümü oluşturmaya çalışıyor.",
+    "p3": "Şu anda özel testnet'te olan Nibiru'nun merkezi olmayan protokolü, türev ticareti, spot ticareti, stake etme ve bağlı likiditeyi birleştiriyor ve 40'tan fazla blok zincirinde kullanıcılara hizmet vermeyi hedefliyor.",
+    "p4": "Yatırımcı sunumunda Nibiru, müşterilere kilitsiz hedge fırsatları, son derece düşük gas maliyetleri, MEV direnci ve yüksek vadeli işlem hacmi sağlayacağını söylüyor. Ayrıca merkezi olmayan perp'ler ve opsiyonlar kullanarak yükselen/düşen rejimlerde birleştirilebilir getiri yaratıyor."
+  }
+ 
+},
+  "categories": {
+    "title": "En Popüler Kategoriler",
+    "items": "ürün",
+    "drillingMachine": "Delme Makinesi",
+    "cordlessTools": "Kablosuz Aletler",
+    "blades": "Bıçaklar",
+    "abrasives": "Aşındırıcılar",
+    "nailers": "Çivi Tabancaları",
+    "stapleGuns": "Zımba Tabancaları",
+    "homeAppliances": "Ev Aletleri",
+    "outdoorPower": "Dış Mekan Gücü",
+    "measuring": "Ölçüm",
+    "bits": "Uçlar",
+    "safetyEquipment": "Güvenlik Ekipmanı",
+    "entertainment": "Eğlence",
+    "cuttingTools": "Kesme Aletleri",
+    "handTools": "El Aletleri",
+    "airTools": "Hava Aletleri",
+    "electricPower": "Elektrik Gücü",
+    "siteLighting": "Şantiye Aydınlatma",
+    "safetyTools": "Güvenlik Aletleri"
+  },
+   "saleBanner": {
+    "title": "Satış teklifi – %30 indirim",
+    "subtitle": "Her Türlü Premium Kalite Aletler",
+    "shopNow": "Şimdi Alışveriş Yap"
+},
+"products": {
+    "featured": "Öne Çıkanlar",
+    "bestSeller": "En Çok Satan",
+    "mostViewed": "En Çok Görüntülenen"
+
+},
+
+
+
+
+ "twoBanners": {
+    "banner1": {
+      "title": "Her Türlü Premium Kalite Aletler",
+      "subtitle": "Ücretsiz kargo ve ürünlerde %40 indirim",
+      "button": "Şimdi Alışveriş Yap"
+    },
+    "banner2": {
+      "title": "Drone Quadcopter UAV – DJI Air 2S",
+      "subtitle": "Gimbal Kamera, 5.4K Video",
+      "button": "Şimdi Alışveriş Yap"
+    }
+  },
+
+  "trending": {
+    "title": "Bu Hafta Trend Olanlar",
+    "subtitle": "Bu ayın özel ürünleri.",
+    "all": "Tümü",
+    "bestSeller": "En Çok Satan",
+    "mostViewed": "En Çok Görüntülenen",
+    "topBrands": "En İyi Markalar"
+  },
+
+ 
+  "latestNews": {
+    "title": "Son Haberler ve Etkinlikler",
+    "subtitle": "Blogumuzdan, forumdan",
+    "posts": {
+      "post101": {
+        "category": "Teknoloji",
+        "title": "Web 3.2 Oyun Dünyasına Nasıl Değişiklik Getirebilir?"
+      },
+      "post102": {
+        "category": "Oyun",
+        "title": "Başarılı Olabilecek NFT Blockchain Oyunları"
+      },
+      "post103": {
+        "category": "Blokzincir",
+        "title": "Blokzincir Oyunları ve Üç Zorluğu"
+      },
+      "post104": {
+        "category": "Teknoloji",
+        "title": "2022'de VR için kullanılacak en son teknolojiler"
+      },
+      "post105": {
+        "category": "Haberler",
+        "title": "Oturma odanızı ilginç bir şekilde nasıl dekore edersiniz"
+      },
+      "post106": {
+        "category": "Haberler",
+        "title": "Sizi tatil köyünde yaşıyormuş gibi hissettiren akıllı ev"
+      },
+      "post107": {
+        "category": "İpuçları",
+        "title": "Odanızı ilginç yapan yeni sandalye stilleri"
+      },
+      "post108": {
+        "category": "Haberler",
+        "title": "Sıcak bir eve sahip olmak için ihtiyacınız olan mutfak mobilyaları"
+      }
+    }
+  },
+
+ 
+  "hero": {
+    "badge": "HOT RIGHT NOW",
+    "slide1": {
+      "title": "Çevrimiçi Kitap Mağazasında %50'ye Varan İndirim",
+      "subtitle": "Geniş kitap koleksiyonumuzu keşfedin. En iyi fiyatlar ve özel tekliflerin keyfini çıkarın.",
+      "shopBtn": "Şimdi Alışveriş Yap",
+      "learnBtn": "Daha Fazla Bilgi"
+    },
+    "slide2": {
+      "title": "En Yeni Kitaplar En İyi Fiyatlarla",
+      "subtitle": "Yeni kitap koleksiyonumuza göz atın.",
+      "shopBtn": "Şimdi Alışveriş Yap",
+      "learnBtn": "Daha Fazla Bilgi"
+    },
+    "slide3": {
+      "badge": "ŞU AN POPÜLER",
+      "title": "Çevrimiçi Kitap Mağazasında %50'ye Varan İndirim",
+      "subtitle": "Geniş kitap koleksiyonumuzu keşfedin. En iyi fiyatlar ve özel tekliflerin keyfini çıkarın.",
+      "shopBtn": "Şimdi Alışveriş Yap",
+      "learnBtn": "Daha Fazla Bilgi"
+    }
+  },
+
+
+    "features": {
+    "delivery": {
+      "title": "Ücretsiz Teslimat",
+      "subtitle": "10$ üzeri tüm siparişlerde"
+    },
+    "support": {
+      "title": "7/24 Destek",
+      "subtitle": "Uzmanla alışveriş yapın"
+    },
+    "voucher": {
+      "title": "Hediye Çeki",
+      "subtitle": "Arkadaşını davet et"
+    },
+    "return": {
+      "title": "İade ve Geri Ödeme",
+      "subtitle": "200$ üzeri ücretsiz iade"
+    },
+    "secure": {
+      "title": "Güvenli Ödeme",
+      "subtitle": "%100 Korumalı"
+    }
+  },
+
+   "threeBanners": {
+    "office": {
+      "title": "Ofis Koleksiyonu",
+      "button": "Şimdi Alışveriş Yap"
+    },
+    "chair": {
+      "title": "Konforlu Sandalye",
+      "button": "Şimdi Alışveriş Yap"
+    },
+    "center": {
+      "slide1": {
+        "subtitle": "Büyük ve Yeni Teklifler",
+        "title": "DEKORASYON & EL İŞİ",
+        "badge": "Bu Hafta Sonu İndirim",
+        "button": "Şimdi Alışveriş Yap"
+      },
+      "slide2": {
+        "subtitle": "Yeni Koleksiyon 2024",
+        "title": "MOBİLYA & STİL",
+        "badge": "Sınırlı Süre",
+        "button": "Şimdi Alışveriş Yap"
+      }
+    }
+  },
+    "popularCategories": {
+    "title": "En Popüler Kategoriler",
+    "products": "ürün",
+    "categories": {
+      "livingRoom": "Oturma Odası",
+      "readingRoom": "Okuma Odası",
+      "bedRoom": "Yatak Odası",
+      "kitchen": "Mutfak",
+      "decorations": "Dekorasyonlar"
+    }
+  },
+
+  "weeklySelection": {
+    "title": "Haftanın Seçimi",
+    "subtitle": "Dünyanın her yerinden tasarımcılar tarafından hazırlanan oturma odası mobilyalarını satın alın",
+    "tabs": {
+      "all": "TÜMÜ",
+      "bestSeller": "EN ÇOK SATAN",
+      "mostViewed": "EN ÇOK GÖRÜNTÜLENEN",
+      "topBrands": "EN İYİ MARKALAR"
+    }
+  },
+
+   "twoBannerss": {
+    "kitchen": {
+      "title": "Mutfak takımları 9.99$'dan",
+      "subtitle": "%30'a kadar indirim"
+    },
+    "livingroom": {
+      "title": "Oturma odası takımları 9.99$'dan",
+      "subtitle": "%30'a kadar indirim"
+    }
+  },
+    "featuredBanners": {
+    "readingTable": {
+      "title": "Okuma Masası",
+      "subtitle": "50$'ın altında"
+    },
+    "tableLamp": {
+      "title": "Masa Lambası Koleksiyonu",
+      "subtitle": "Aqua Shift Özel Sürümü"
+    },
+    "topChair": {
+      "title": "En İyi Sandalye",
+      "subtitle": "120$'ın altında",
+      "button": "Şimdi Al"
+    },
+    "sofa": {
+      "title": "Kanepe Koleksiyonu",
+      "subtitle": "Aqua Shift Özel Sürümü"
+    },
+    "relaxingChair": {
+      "title": "Rahatlatıcı Sandalye",
+      "subtitle": "100$'dan. Ücretsiz kargo"
+    }
+  },
+   "promoBanner": {
+    "title": "Sınırlı sandalyelerde %70 indirim",
+    "subtitle": "80$'dan fazla alışverişlerde ücretsiz kargo.",
+    "button": "Ürünleri Gör"
+  },
+
+
+  
+  "miniBanners": {
+    "latest": {
+      "subtitle": "En Yeni Kitaplar",
+      "title": "Özel Teklifler",
+      "text": "İlham veren kitaplarla düşüncelerinizi değiştirin",
+      "button": "ŞİMDİ ALIŞVERİŞ YAP"
+    },
+    "discount": {
+      "subtitle": "En İyi Koleksiyon",
+      "title": "%20'ye Varan İndirim",
+      "text": "Sadece bu hafta",
+      "button": "ŞİMDİ ALIŞVERİŞ YAP"
+    },
+    "professional": {
+      "subtitle": "Ayın Kitabı",
+      "title": "Profesyonel Kitaplar",
+      "text": "%50 İndirim",
+      "button": "ŞİMDİ ALIŞVERİŞ YAP"
+    }
+  },
+   
+  "latestDeals": {
+    "title": "Son Fırsatlar",
+    "subtitle": "Bu ayın özel ürünleri",
+    "hurry": "Acele edin!",
+    "offersEnd": "Teklifler bitiyor:",
+    "viewAll": "Tümünü Gör",
+    "products": {
+      "p1": { "brand": "Benjamin Graham", "title": "Neden ile Başla: Büyük Liderler Herkesi Nasıl Harekete Geçirir" },
+      "p2": { "brand": "Benjamin Graham", "title": "Neden ile Başla: Büyük Liderler Herkesi Nasıl Harekete Geçirir" },
+      "p3": { "brand": "Benjamin Graham", "title": "Neden ile Başla: Büyük Liderler Herkesi Nasıl Harekete Geçirir" },
+      "p4": { "brand": "Benjamin Graham", "title": "Neden ile Başla: Büyük Liderler Herkesi Nasıl Harekete Geçirir" },
+      "p5": { "brand": "Benjamin Graham", "title": "Neden ile Başla: Büyük Liderler Herkesi Nasıl Harekete Geçirir" },
+      "p6": { "brand": "Benjamin Graham", "title": "Neden ile Başla: Büyük Liderler Herkesi Nasıl Harekete Geçirir" },
+      "p7": { "brand": "Benjamin Graham", "title": "Neden ile Başla: Büyük Liderler Herkesi Nasıl Harekete Geçirir" },
+      "p8": { "brand": "Benjamin Graham", "title": "Neden ile Başla: Büyük Liderler Herkesi Nasıl Harekete Geçirir" },
+      "p9": { "brand": "Benjamin Graham", "title": "Neden ile Başla: Büyük Liderler Herkesi Nasıl Harekete Geçirir" },
+      "p10": { "brand": "Benjamin Graham", "title": "Neden ile Başla: Büyük Liderler Herkesi Nasıl Harekete Geçirir" }
+    }
+  },
+
+
+    "featuredProducts": {
+    "title": "En Çok Satan Kitaplar",
+    "subtitle": "Bu ayın özel ürünleri",
+    "products": {
+      "p1": { "brand": "Steven Job", "title": "Sekiz Sıra Dışı CEO ve Başarı İçin Radikal Rasyonel Planları" },
+      "p2": { "brand": "Steven Job", "title": "Sekiz Sıra Dışı CEO ve Başarı İçin Radikal Rasyonel Planları" },
+      "p3": { "brand": "Steven Job", "title": "Sekiz Sıra Dışı CEO ve Başarı İçin Radikal Rasyonel Planları" },
+      "p4": { "brand": "Steven Job", "title": "Sekiz Sıra Dışı CEO ve Başarı İçin Radikal Rasyonel Planları" },
+      "p5": { "brand": "Steven Job", "title": "Sekiz Sıra Dışı CEO ve Başarı İçin Radikal Rasyonel Planları" },
+      "p6": { "brand": "Steven Job", "title": "Sekiz Sıra Dışı CEO ve Başarı İçin Radikal Rasyonel Planları" },
+      "p7": { "brand": "Steven Job", "title": "Sekiz Sıra Dışı CEO ve Başarı İçin Radikal Rasyonel Planları" },
+      "p8": { "brand": "Steven Job", "title": "Sekiz Sıra Dışı CEO ve Başarı İçin Radikal Rasyonel Planları" },
+      "p9": { "brand": "Steven Job", "title": "Sekiz Sıra Dışı CEO ve Başarı İçin Radikal Rasyonel Planları" }
+    }
+  },
+
+   "weeklySelectionn": {
+    "title": "Ecom Tarafından Seçildi",
+    "subtitle": "Bu ayın özel ürünleri",
+    "available": "Mevcut",
+    "sold": "Satıldı",
+    "day": "Gün",
+    "hour": "Saat",
+    "min": "Dakika",
+    "sec": "Saniye",
+    "products": {
+      "p1": {
+        "brand": "Apple",
+        "title": "2022 Apple iMac Retina 5K Ekran 8GB RAM, 256GB SSD",
+        "f1": "27 inç (çapraz) Retina 5K ekran",
+        "f2": "3.1GHz 6 çekirdekli 10. nesil Intel Core i5",
+        "f3": "AMD Radeon Pro 5300 grafik"
+      },
+      "p2": {
+        "brand": "Apple",
+        "title": "Apple MacBook Air, Apple M1 Çip, 13 inç, 8GB RAM",
+        "f1": "27 inç (çapraz) Retina 5K ekran",
+        "f2": "3.1GHz 6 çekirdekli 10. nesil Intel Core i5",
+        "f3": "AMD Radeon Pro 5300 grafik"
+      },
+      "p3": {
+        "brand": "Apple",
+        "title": "2022 Apple iMac Retina 5K Ekran 8GB RAM, 256GB SSD",
+        "f1": "27 inç (çapraz) Retina 5K ekran",
+        "f2": "3.1GHz 6 çekirdekli 10. nesil Intel Core i5",
+        "f3": "AMD Radeon Pro 5300 grafik"
+      },
+      "p4": {
+        "brand": "Apple",
+        "title": "2022 Apple iMac Retina 5K Ekran 8GB RAM, 256GB SSD",
+        "f1": "27 inç (çapraz) Retina 5K ekran",
+        "f2": "3.1GHz 6 çekirdekli 10. nesil Intel Core i5",
+        "f3": "AMD Radeon Pro 5300 grafik"
+      }
+    }
+  },
+    "banners": {
+    "latest": {
+      "subtitle": "En Yeni Kitaplar",
+      "title": "Özel Teklifler",
+      "text": "En yeni kitaplar en iyi fiyatlarla",
+      "button": "ŞİMDİ ALIŞVERİŞ YAP"
+    },
+    "history": {
+      "subtitle": "Koleksiyon İçin",
+      "title": "Tarih Kitapları",
+      "text": "Geniş tarih kitabı koleksiyonumuzu keşfedin",
+      "button": "ŞİMDİ ALIŞVERİŞ YAP"
+    }
+  },
+   "categoryCards": {
+    "viewAll": "Tümünü Gör",
+    "business": {
+      "title": "İş ve Para",
+      "items": {
+        "accounting": "Muhasebe",
+        "biography": "Biyografi ve Tarih",
+        "culture": "İş Kültürü",
+        "economics": "Ekonomi"
+      }
+    },
+    "biographies": {
+      "title": "Biyografiler",
+      "items": {
+        "dvd": "HD DVD Oynatıcılar",
+        "projection": "Projeksiyon Ekranları",
+        "tv": "Televizyon Aksesuarları",
+        "combos": "TV-DVD Komboları"
+      }
+    },
+    "children": {
+      "title": "Çocuk Kitapları",
+      "items": {
+        "action": "Aksiyon ve Macera",
+        "activities": "Etkinlikler, El Sanatları",
+        "arts": "Sanat, Müzik",
+        "early": "Erken Öğrenme"
+      }
+    },
+    "education": {
+      "title": "Eğitim ve Öğretim",
+      "items": {
+        "higher": "Yüksek ve Sürekli",
+        "schools": "Okullar ve Öğretim",
+        "study": "Ders Rehberleri",
+        "test": "Test Hazırlığı"
+      }
+    }
+  },
+   "latestNewss1": {
+    "title": "Son Haberler ve Etkinlikler",
+    "subtitle": "Blogumuzdan, forumdan",
+    "posts": {
+      "post109": {
+        "category": "İpuçları",
+        "title": "Stresiz Verimlilik Sanatı"
+      },
+      "post110": {
+        "category": "Haberler",
+        "title": "Dünya Hakkında Yanılmamızın On Nedeni"
+      },
+      "post111": {
+        "category": "İpuçları",
+        "title": "Kırılganlık Cesareti Stresiz Verimlilik Sanatını Nasıl Dönüştürür"
+      },
+      "post112": {
+        "category": "Haberler",
+        "title": "Bazı Şirketler Neden Sıçrama Yapar, Diğerleri Yapmaz"
+      }
+    }
+  }
+}
+
+
+
